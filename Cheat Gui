@@ -230,7 +230,7 @@
                         userSelect: "text",
                     },
                     innerHTML: "GitHub - GlitchingGamerZ",
-                    onclick: () => window.open("https://github.com/Blooket-Council/Blooket-Cheats", "_blank").focus(),
+                    onclick: () => window.open("https://github.com/thund3r-xx").focus(),
                 }),
                 (controlButtons = createElement(
                     "div",
